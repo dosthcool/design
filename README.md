@@ -28,3 +28,12 @@ Cody
 
 ## sketch Version
 工作文件请勿下载。
+
+## sketchnotes
+手绘涂鸦文件
+
+## xcode
+一些新尝试
+
+## mindnote
+自我学习笔记
